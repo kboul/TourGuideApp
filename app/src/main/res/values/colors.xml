@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="category_phrases">#16AFCA</color>
+
+    <!-- text color for selected tab -->
+    <color name="tabSelectedTextColor">#FFFFFF</color>
+
+    <!-- text color for non selected tab -->
+    <color name="tabTextColor">#C5CAE9</color>
+</resources>

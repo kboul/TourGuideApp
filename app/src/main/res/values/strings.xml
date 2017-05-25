@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Athens Guide</string>
+
+    <string name="category_attractions">See</string>
+    <string name="category_bars">Drink</string>
+    <string name="category_hotels">Sleep</string>
+    <string name="category_restaurants">Eat</string>
+</resources>
