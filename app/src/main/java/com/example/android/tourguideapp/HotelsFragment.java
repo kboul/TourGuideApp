@@ -20,6 +20,9 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ListView;
+
+import java.util.ArrayList;
 
 /**
  * Fragment that displays "Monday".
@@ -28,6 +31,28 @@ public class HotelsFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_hotels, container, false);
+
+        View rootView = inflater.inflate(R.layout.word_list, container, false);
+
+        final ArrayList<Location> locations = new ArrayList<Location>();
+
+        locations.add(new Location(R.drawable.amalia, R.string.hotels_amalia_name, R.string.hotels_amalia_location));
+        locations.add(new Location(R.drawable.plakahotel, R.string.hotels_plaka_name, R.string.hotels_plaka_location));
+        locations.add(new Location(R.drawable.airotel, R.string.hotels_airotel_name, R.string.hotels_airotel_location));
+        locations.add(new Location(R.drawable.attalos, R.string.hotels_attalos_name, R.string.hotels_attalos_location));
+        locations.add(new Location(R.drawable.herodion, R.string.hotels_herodion_name, R.string.hotels_herodion_location));
+        locations.add(new Location(R.drawable.melia, R.string.hotels_melia_name, R.string.hotels_melia_location));
+        locations.add(new Location(R.drawable.electra, R.string.hotels_electra_name, R.string.hotels_electra_location));
+        locations.add(new Location(R.drawable.theathensgatehotel, R.string.hotels_gate_name, R.string.hotels_gate_location));
+        locations.add(new Location(R.drawable.presidenthotel, R.string.hotels_president_name, R.string.hotels_president_location));
+        locations.add(new Location(R.drawable.royal, R.string.hotels_royal_name, R.string.hotels_royal_location));
+
+        LocationAdapter adapter = new LocationAdapter(getActivity(), locations);
+
+        ListView listView = (ListView) rootView.findViewById(R.id.list);
+
+        listView.setAdapter(adapter);
+
+        return rootView;
     }
 }

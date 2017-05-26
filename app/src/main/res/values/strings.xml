@@ -1,8 +1,145 @@
 <resources>
-    <string name="app_name">Athens Guide</string>
+    <string name="app_name">Discover Athens</string>
 
     <string name="category_attractions">See</string>
     <string name="category_bars">Drink</string>
     <string name="category_hotels">Sleep</string>
     <string name="category_restaurants">Eat</string>
+
+    <!-- Location -->
+    <!-- Source: http://www.planetware.com/tourist-attractions-/athens-gr-ath-ath.htm -->
+    <string name="attractions_acropolis_name">The Acropolis</string>
+    <string name="attractions_acropolis_location">15 Dionysiou Areopagitou Street</string>
+
+    <string name="attractions_nam_name">National Archaeology Museum</string>
+    <string name="attractions_nam_location">44 Patission Street</string>
+
+    <string name="attractions_byz_name">Byzantine Museum</string>
+    <string name="attractions_byz_location">22 Vas. Sofias Avenue</string>
+
+    <string name="attractions_agora_name">Agora: Ruins of the Ancient Marketplace</string>
+    <string name="attractions_agora_location">24 Andrianou Street</string>
+
+    <string name="attractions_apostles_name">Church of the Holy Apostles</string>
+    <string name="attractions_apostles_location">Ancient Agora</string>
+
+    <string name="attractions_kapnikarea_name">Panaghia Kapnikaréa Church</string>
+    <string name="attractions_kapnikarea_location">Corner of Ermoú &amp; Kalamiótous Street</string>
+
+    <string name="attractions_zeus_name">Olympeion: Temple of Olympian Zeus</string>
+    <string name="attractions_zeus_location">City Center near Athens Gate &amp; Athanasiou Diakou Str.</string>
+
+    <string name="attractions_panathenaic_name">Panathenaic Stadium</string>
+    <string name="attractions_panathenaic_location">Ardettos Hill</string>
+
+    <string name="attractions_plaka_name">Plaka and Anafiotika</string>
+    <string name="attractions_plaka_location">Between Acropolis &amp; Ermou Str.</string>
+
+    <string name="attractions_syntagma_name">Changing of the Guard at Syntagma Square</string>
+    <string name="attractions_syntagma_location">Syntagma Square</string>
+
+    <!-- Restaurants -->
+    <!-- Source: https://www.manual.gr/features/the-best-restaurants-in-athens/?gclid=CjwKEAjwgZrJBRDS38GH1Kv_vGYSJAD8j4DfRBq_3O4weSv0RhPNLdIvOzRT_ETo9ghVycHE33wQWBoCK6jw_wcB -->
+    <string name="restaurants_hytra_name">Hytra</string>
+    <string name="restaurants_hytra_hours">Daily 8pm-2am</string>
+    <string name="restaurants_hytra_location">Leof. Andrea Siggrou 107</string>
+    <string name="restaurants_hytra_phone">+302103316767</string>
+
+    <string name="restaurants_cookoovaya_name">Cookoovaya</string>
+    <string name="restaurants_cookoovaya_hours">Daily 1pm-1am</string>
+    <string name="restaurants_cookoovaya_location">Chatzigianni Mexi 2</string>
+    <string name="restaurants_cookoovaya_phone">+302107235005</string>
+
+    <string name="restaurants_vezene_name">Vezene</string>
+    <string name="restaurants_vezene_location">Vrasida 11</string>
+
+    <string name="restaurants_spondi_name">Spondi</string>
+    <string name="restaurants_spondi_location">Pyrronos 5</string>
+
+    <string name="restaurants_bishop_name">Stinking Bishop</string>
+    <string name="restaurants_bishop_location">Loukianou 36</string>
+
+    <string name="restaurants_aleria_name">Aleria</string>
+    <string name="restaurants_aleria_location">Meg. Alexandrou 57</string>
+
+    <string name="restaurants_fuga_name">Fuga</string>
+    <string name="restaurants_fuga_location">Petrou Kokkali</string>
+
+    <string name="restaurants_urban_name">48 Urban Garden</string>
+    <string name="restaurants_urban_location">Armatolon ke Klefton 48</string>
+
+    <string name="restaurants_scala_name">Scala Vinoteca</string>
+    <string name="restaurants_scala_location">Sina 50</string>
+
+    <string name="restaurants_ctc_name">CTC</string>
+    <string name="restaurants_ctc_location">Oumplianis 14</string>
+
+    <!-- Bars -->
+    <!-- Source: http://www.10best.com/destinations/greece/athens/monastiraki/nightlife/rock-balls/ -->
+    <string name="bars_galaxy_name">Galaxy Bar</string>
+    <string name="bars_galaxy_description">sdsd</string>
+    <string name="bars_galaxy_location">46 Vassilissis Sofias Avenue</string>
+
+    <string name="bars_baba_name">Baba au Rum</string>
+    <string name="bars_baba_description">Baba au Rum opened in 2009 and was the first bar which approached rum and the cocktail culture in a completely different way.</string>
+    <string name="bars_baba_location">Klitiou 6</string>
+
+    <string name="bars_jingoint_name">Gin Joint</string>
+    <string name="bars_jingoint_description">Centrally located in Karitsi Square, one of the most beautiful hidden corners near Syntagma Square, the Gin Joint is a small bar for serious drinks.</string>
+    <string name="bars_jingoint_location">Christou Lada 1</string>
+
+    <string name="bars_42bar_name">42 Bar</string>
+    <string name="bars_42bar_description">Located in an atmospheric alley, with a shady plane tree and an intimate interior space, this successful bar has become a favorite in Athens, from the first day it opened.</string>
+    <string name="bars_42bar_location">Kolokotroni 3</string>
+
+    <string name="bars_jazzinjazz_name">Jazz in Jazz</string>
+    <string name="bars_jazzinjazz_description">Jazz in Jazz on Deinokratous street, on the way up to Lycabettus hill, is unique in its kind and a reference point in the neighborhood for an eclectic public.</string>
+    <string name="bars_jazzinjazz_location">Deinokratous 3</string>
+
+    <string name="bars_lowprofile_name">Low Profile Coffee &amp; Whiskey</string>
+    <string name="bars_lowprofile_location">Voulis 7</string>
+
+    <string name="bars_ippopotamos_name">Ippopotamos</string>
+    <string name="bars_ippopotamos_location">Delfon 3b</string>
+
+    <string name="bars_noel_name">Noel</string>
+    <string name="bars_noel_location">Kolokotroni 59B</string>
+
+    <string name="bars_theunderdog_name">The Underdog</string>
+    <string name="bars_theunderdog_location">Irakleidon 8</string>
+
+    <string name="bars_rockandballs_name">Rock &amp; Balls </string>
+    <string name="bars_rockandballs_location">Irakleidon 8</string>
+
+    <!-- Hotels -->
+    <!-- Source: https://www.hotelscombined.com/Hotel -->
+    <string name="hotels_amalia_name">Amalia Hotel</string>
+    <string name="hotels_amalia_location">10 Amalias Avenue, Syntagma</string>
+
+    <string name="hotels_plaka_name">Plaka Hotel</string>
+    <string name="hotels_plaka_location">7 Kapnikareas &amp; Mitropoleos, Plaka, Monastiraki</string>
+
+    <string name="hotels_airotel_name">Airotel Parthenon</string>
+    <string name="hotels_airotel_location">6 Makri Street, Acropolis</string>
+
+    <string name="hotels_attalos_name">Attalos Hotel</string>
+    <string name="hotels_attalos_location">29 Athinas Street, Psyri</string>
+
+    <string name="hotels_herodion_name">Herodion Hotel</string>
+    <string name="hotels_herodion_location">4 Rovertou Galli Street</string>
+
+    <string name="hotels_melia_name">Melia Athens</string>
+    <string name="hotels_melia_location">14 Chalkokondili &amp; 28 October Street, Kanigos Square</string>
+
+    <string name="hotels_electra_name">Electra Palace Hotel Athens</string>
+    <string name="hotels_electra_location">18-20 North Nikodimou Street, Plaka</string>
+
+    <string name="hotels_gate_name">The Athens Gate Hotel</string>
+    <string name="hotels_gate_location">10 Syngrou Avenue, Acropolis</string>
+
+    <string name="hotels_president_name">President Hotel Athens</string>
+    <string name="hotels_president_location">43 Kifisias Avenue, Ambelokipi</string>
+
+    <string name="hotels_royal_name">Royal Olympic Hotel</string>
+    <string name="hotels_royal_location">28-34 Athanasiou Diakou Street, Acropolis</string>
 </resources>

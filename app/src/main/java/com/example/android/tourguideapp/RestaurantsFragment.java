@@ -20,6 +20,11 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ListView;
+
+import java.util.ArrayList;
+
+import static com.example.android.tourguideapp.R.id.location;
 
 /**
  * Fragment that displays "Monday".
@@ -28,6 +33,28 @@ public class RestaurantsFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_restaurants, container, false);
+
+        View rootView = inflater.inflate(R.layout.word_list, container, false);
+
+        final ArrayList<Location> locations = new ArrayList<Location>();
+
+        locations.add(new Location(R.drawable.hytra, R.string.restaurants_hytra_name, R.string.restaurants_hytra_location));
+        locations.add(new Location(R.drawable.cookoovaya, R.string.restaurants_cookoovaya_name, R.string.restaurants_cookoovaya_location));
+        locations.add(new Location(R.drawable.vezene, R.string.restaurants_vezene_name, R.string.restaurants_vezene_location));
+        locations.add(new Location(R.drawable.spondi, R.string.restaurants_spondi_name, R.string.restaurants_spondi_location));
+        locations.add(new Location(R.drawable.stinkingbishop, R.string.restaurants_bishop_name, R.string.restaurants_bishop_location));
+        locations.add(new Location(R.drawable.aleria, R.string.restaurants_aleria_name, R.string.restaurants_aleria_location));
+        locations.add(new Location(R.drawable.fuga, R.string.restaurants_fuga_name, R.string.restaurants_fuga_location));
+        locations.add(new Location(R.drawable.urbangarden, R.string.restaurants_urban_name, R.string.restaurants_urban_location));
+        locations.add(new Location(R.drawable.scalavinoteca, R.string.restaurants_scala_name, R.string.restaurants_scala_location));
+        locations.add(new Location(R.drawable.ctc, R.string.restaurants_ctc_name, R.string.restaurants_ctc_location));
+
+        LocationAdapter adapter = new LocationAdapter(getActivity(), locations);
+
+        ListView listView = (ListView) rootView.findViewById(R.id.list);
+
+        listView.setAdapter(adapter);
+
+        return rootView;
     }
 }
