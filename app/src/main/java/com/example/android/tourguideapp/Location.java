@@ -23,6 +23,14 @@ public class Location {
         this.location = location;
     }
 
+    /**
+     * Create a new Location object.
+     *
+     * @param imageResourceId is the image resource Id for the attraction
+     * @param name            is the name of the attraction
+     * @param description     is the description of the place
+     * @param location        is the location of the attraction
+     */
     public Location(int imageResourceId, int name, int description, int location) {
         this.imageResourceId = imageResourceId;
         this.name = name;

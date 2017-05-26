@@ -8,4 +8,24 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="Image">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/image_height</item>
+        <item name="android:layout_marginBottom">@dimen/image_margin_bottom</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+
+    <style name="Title">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Location">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/location_text_size</item>
+    </style>
+
 </resources>

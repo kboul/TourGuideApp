@@ -32,9 +32,7 @@ public class AttractionsFragment extends Fragment {
 
         final ArrayList<Location> locations = new ArrayList<Location>();
 
-        locations.add(new Location(R.drawable.acropolis,
-                R.string.attractions_acropolis_name,
-                R.string.attractions_acropolis_location));
+        locations.add(new Location(R.drawable.acropolis, R.string.attractions_acropolis_name, R.string.attractions_acropolis_location));
         locations.add(new Location(R.drawable.nam, R.string.attractions_nam_name, R.string.attractions_nam_location));
         locations.add(new Location(R.drawable.byzantinemuseum, R.string.attractions_byz_name, R.string.attractions_byz_location));
         locations.add(new Location(R.drawable.ancientagora, R.string.attractions_agora_name, R.string.attractions_agora_location));

@@ -142,4 +142,7 @@
 
     <string name="hotels_royal_name">Royal Olympic Hotel</string>
     <string name="hotels_royal_location">28-34 Athanasiou Diakou Street, Acropolis</string>
+
+    <!-- List View -->
+    <string name="location_text">one</string>
 </resources>
