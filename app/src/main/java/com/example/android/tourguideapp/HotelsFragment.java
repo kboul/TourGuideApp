@@ -24,15 +24,12 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
-/**
- * Fragment that displays "Monday".
- */
 public class HotelsFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
-        View rootView = inflater.inflate(R.layout.word_list, container, false);
+        View rootView = inflater.inflate(R.layout.location_list, container, false);
 
         final ArrayList<Location> locations = new ArrayList<Location>();
 
