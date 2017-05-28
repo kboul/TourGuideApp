@@ -33,16 +33,66 @@ public class RestaurantsFragment extends Fragment {
 
         final ArrayList<Location> locations = new ArrayList<Location>();
 
-        locations.add(new Location(R.drawable.hytra, R.string.restaurants_hytra_name, R.string.restaurants_hytra_location));
-        locations.add(new Location(R.drawable.cookoovaya, R.string.restaurants_cookoovaya_name, R.string.restaurants_cookoovaya_location));
-        locations.add(new Location(R.drawable.vezene, R.string.restaurants_vezene_name, R.string.restaurants_vezene_location));
-        locations.add(new Location(R.drawable.spondi, R.string.restaurants_spondi_name, R.string.restaurants_spondi_location));
-        locations.add(new Location(R.drawable.stinkingbishop, R.string.restaurants_bishop_name, R.string.restaurants_bishop_location));
-        locations.add(new Location(R.drawable.aleria, R.string.restaurants_aleria_name, R.string.restaurants_aleria_location));
-        locations.add(new Location(R.drawable.fuga, R.string.restaurants_fuga_name, R.string.restaurants_fuga_location));
-        locations.add(new Location(R.drawable.urbangarden, R.string.restaurants_urban_name, R.string.restaurants_urban_location));
-        locations.add(new Location(R.drawable.scalavinoteca, R.string.restaurants_scala_name, R.string.restaurants_scala_location));
-        locations.add(new Location(R.drawable.ctc, R.string.restaurants_ctc_name, R.string.restaurants_ctc_location));
+        locations.add(new Location(
+                R.drawable.hytra,
+                R.string.restaurants_hytra_name,
+                R.string.restaurants_hytra_description,
+                R.string.restaurants_hytra_location)
+        );
+        locations.add(new Location(
+                R.drawable.cookoovaya,
+                R.string.restaurants_cookoovaya_name,
+                R.string.restaurants_cookoovaya_description,
+                R.string.restaurants_cookoovaya_location)
+        );
+        locations.add(new Location(
+                R.drawable.vezene,
+                R.string.restaurants_vezene_name,
+                R.string.restaurants_vezene_description,
+                R.string.restaurants_vezene_location)
+        );
+        locations.add(new Location(
+                R.drawable.spondi,
+                R.string.restaurants_spondi_name,
+                R.string.restaurants_spondi_description,
+                R.string.restaurants_spondi_location)
+        );
+        locations.add(new Location(
+                R.drawable.stinkingbishop,
+                R.string.restaurants_bishop_name,
+                R.string.restaurants_bishop_description,
+                R.string.restaurants_bishop_location)
+        );
+        locations.add(new Location(
+                R.drawable.aleria,
+                R.string.restaurants_aleria_name,
+                R.string.restaurants_aleria_description,
+                R.string.restaurants_aleria_location)
+        );
+        locations.add(new Location(
+                R.drawable.fuga,
+                R.string.restaurants_fuga_name,
+                R.string.restaurants_fuga_description,
+                R.string.restaurants_fuga_location)
+        );
+        locations.add(new Location(
+                R.drawable.urbangarden,
+                R.string.restaurants_urban_name,
+                R.string.restaurants_urban_description,
+                R.string.restaurants_urban_location)
+        );
+        locations.add(new Location(
+                R.drawable.scalavinoteca,
+                R.string.restaurants_scala_name,
+                R.string.restaurants_scala_description,
+                R.string.restaurants_scala_location)
+        );
+        locations.add(new Location(
+                R.drawable.ctc,
+                R.string.restaurants_ctc_name,
+                R.string.restaurants_ctc_description,
+                R.string.restaurants_ctc_location)
+        );
 
         LocationAdapter adapter = new LocationAdapter(getActivity(), locations);
 

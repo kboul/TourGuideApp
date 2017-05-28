@@ -36,17 +36,63 @@ public class BarsFragment extends Fragment {
         locations.add(new Location(
                 R.drawable.galaxybar,
                 R.string.bars_galaxy_name,
+                R.string.bars_galaxy_description,
                 R.string.bars_galaxy_location)
         );
-        locations.add(new Location(R.drawable.babaauraum, R.string.bars_baba_name, R.string.bars_baba_location));
-        locations.add(new Location(R.drawable.jingoint, R.string.bars_jingoint_name, R.string.bars_jingoint_location));
-        locations.add(new Location(R.drawable.fortytwobar, R.string.bars_42bar_name, R.string.bars_42bar_location));
-        locations.add(new Location(R.drawable.jazzinjazz, R.string.bars_jazzinjazz_name, R.string.bars_jazzinjazz_location));
-        locations.add(new Location(R.drawable.lowprofile, R.string.bars_lowprofile_name, R.string.bars_lowprofile_location));
-        locations.add(new Location(R.drawable.ippopotamos, R.string.bars_ippopotamos_name, R.string.bars_ippopotamos_location));
-        locations.add(new Location(R.drawable.noel, R.string.bars_noel_name, R.string.bars_noel_location));
-        locations.add(new Location(R.drawable.theunderdog, R.string.bars_theunderdog_name, R.string.bars_theunderdog_location));
-        locations.add(new Location(R.drawable.rockandballs, R.string.bars_rockandballs_name, R.string.bars_rockandballs_location));
+        locations.add(new Location(
+                R.drawable.babaauraum,
+                R.string.bars_baba_name,
+                R.string.bars_baba_description,
+                R.string.bars_baba_location)
+        );
+        locations.add(new Location(
+                R.drawable.jingoint,
+                R.string.bars_jingoint_name,
+                R.string.bars_jingoint_description,
+                R.string.bars_jingoint_location)
+        );
+        locations.add(new Location(
+                R.drawable.fortytwobar,
+                R.string.bars_42bar_name,
+                R.string.bars_42bar_description,
+                R.string.bars_42bar_location)
+        );
+        locations.add(new Location(
+                R.drawable.jazzinjazz,
+                R.string.bars_jazzinjazz_name,
+                R.string.bars_jazzinjazz_description,
+                R.string.bars_jazzinjazz_location)
+        );
+        locations.add(new Location(
+                R.drawable.lowprofile,
+                R.string.bars_lowprofile_name,
+                R.string.bars_lowprofile_description,
+                R.string.bars_lowprofile_location)
+        );
+        locations.add(new Location(
+                R.drawable.ippopotamos,
+                R.string.bars_ippopotamos_name,
+                R.string.bars_ippopotamos_description,
+                R.string.bars_ippopotamos_location)
+        );
+        locations.add(new Location(
+                R.drawable.noel,
+                R.string.bars_noel_name,
+                R.string.bars_noel_description,
+                R.string.bars_noel_location)
+        );
+        locations.add(new Location(
+                R.drawable.theunderdog,
+                R.string.bars_theunderdog_name,
+                R.string.bars_theunderdog_description,
+                R.string.bars_theunderdog_location)
+        );
+        locations.add(new Location(
+                R.drawable.rockandballs,
+                R.string.bars_rockandballs_name,
+                R.string.bars_rockandballs_description,
+                R.string.bars_rockandballs_location)
+        );
 
         LocationAdapter adapter = new LocationAdapter(getActivity(), locations);
 

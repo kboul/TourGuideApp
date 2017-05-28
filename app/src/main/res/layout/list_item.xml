@@ -14,11 +14,16 @@
     <TextView
         android:id="@+id/name"
         style="@style/Title"
-        tools:text="lutti" />
+        tools:text="name" />
+
+    <TextView
+        android:id="@+id/description"
+        style="@style/Description"
+        tools:text="description" />
 
     <TextView
         android:id="@+id/location"
         style="@style/Location"
-        tools:text="@string/location_text" />
+        tools:text="location" />
 
 </LinearLayout>

@@ -9,75 +9,95 @@
     <!-- Location -->
     <!-- Source: http://www.planetware.com/tourist-attractions-/athens-gr-ath-ath.htm -->
     <string name="attractions_acropolis_name">The Acropolis</string>
+    <string name="attractions_acropolis_description">Few sights in the world compare to Athen\'s Acropolis, with its Parthenon temple perched high on a rocky crag keeping watch over centuries of civilization.</string>
     <string name="attractions_acropolis_location">15 Dionysiou Areopagitou Street</string>
 
     <string name="attractions_nam_name">National Archaeology Museum</string>
+    <string name="attractions_nam_description">Founded in the 19th century, Athens\' National Archaeological Museum is the largest archaeological museum in Greece and one of the greatest antiquities museums in the world.</string>
     <string name="attractions_nam_location">44 Patission Street</string>
 
     <string name="attractions_byz_name">Byzantine Museum</string>
+    <string name="attractions_byz_description">This interesting museum offers fascinating insights into the Byzantine period of Greek history.</string>
     <string name="attractions_byz_location">22 Vas. Sofias Avenue</string>
 
     <string name="attractions_agora_name">Agora: Ruins of the Ancient Marketplace</string>
+    <string name="attractions_agora_description">The ancient Agora was the marketplace and the center of everyday life in ancient Athens. For an impressive view of the Agora from afar, head to the north wall of the Acropolis or the roads from the Areopagus.</string>
     <string name="attractions_agora_location">24 Andrianou Street</string>
 
     <string name="attractions_apostles_name">Church of the Holy Apostles</string>
+    <string name="attractions_apostles_description">On the site of the ancient Agora, the Church of the Holy Apostles was the only building left standing when this entire quarter of Athens was demolished to excavate the Agora archaeological site.</string>
     <string name="attractions_apostles_location">Ancient Agora</string>
 
     <string name="attractions_kapnikarea_name">Panaghia Kapnikaréa Church</string>
+    <string name="attractions_kapnikarea_description">Gracing a little square that opens onto Ermoú Street, the Panaghia Kapnikaréa Church is a delightful place to visit. This beautiful little church was saved from demolition in the 19th century by the intervention of King Ludwig I of Bavaria.</string>
     <string name="attractions_kapnikarea_location">Corner of Ermoú &amp; Kalamiótous Street</string>
 
     <string name="attractions_zeus_name">Olympeion: Temple of Olympian Zeus</string>
+    <string name="attractions_zeus_description">Dedicated to Zeus, the Olympeion was the largest temple in ancient Greece. Though the Parthenon is better preserved, the Temple of Olympian Zeus was an even more monumental structure in its day.</string>
     <string name="attractions_zeus_location">City Center near Athens Gate &amp; Athanasiou Diakou Str.</string>
 
     <string name="attractions_panathenaic_name">Panathenaic Stadium</string>
+    <string name="attractions_panathenaic_description">Ancient Athens\'s largest building, the Panathenaic Stadium, has a capacity for 60,000 spectators. Constructed around 335 BC during the era of Herodes Atticus, the venue hosted the Panathenaic Games where runners competed in races around the track.</string>
     <string name="attractions_panathenaic_location">Ardettos Hill</string>
 
     <string name="attractions_plaka_name">Plaka and Anafiotika</string>
+    <string name="attractions_plaka_description">Between the northern slopes of the Acropolis and Ermoú Street, the picturesque Pláka neighborhood boasts two important archaeological sites on Pepopida Street: the first-century BC Roman Agora and the second-century Library of Hadrian.</string>
     <string name="attractions_plaka_location">Between Acropolis &amp; Ermou Str.</string>
 
     <string name="attractions_syntagma_name">Changing of the Guard at Syntagma Square</string>
+    <string name="attractions_syntagma_description">For many tourists, watching the Changing of the Guard at Syntagma Square is an exciting and memorable experience. The Soldiers of the Presidential Guard stand in front of the Hellenic Parliament on Syntagma Square 24 hours a day, year-round.</string>
     <string name="attractions_syntagma_location">Syntagma Square</string>
 
     <!-- Restaurants -->
     <!-- Source: https://www.manual.gr/features/the-best-restaurants-in-athens/?gclid=CjwKEAjwgZrJBRDS38GH1Kv_vGYSJAD8j4DfRBq_3O4weSv0RhPNLdIvOzRT_ETo9ghVycHE33wQWBoCK6jw_wcB -->
     <string name="restaurants_hytra_name">Hytra</string>
+    <string name="restaurants_hytra_description">The poster child of advanced modern Greek cuisine in a cutting-edge design space at the Onassis Cultural Center moves to an equally alluring rooftop during the summer.</string>
     <string name="restaurants_hytra_hours">Daily 8pm-2am</string>
     <string name="restaurants_hytra_location">Leof. Andrea Siggrou 107</string>
     <string name="restaurants_hytra_phone">+302103316767</string>
 
     <string name="restaurants_cookoovaya_name">Cookoovaya</string>
+    <string name="restaurants_cookoovaya_description">Concept restaurant by a local collective of star chefs dedicated to progressive Greek cuisine; extraordinary local ingredients, sourced from places you didn’t even know existed, are served up in its bright, airy hall.</string>
     <string name="restaurants_cookoovaya_hours">Daily 1pm-1am</string>
     <string name="restaurants_cookoovaya_location">Chatzigianni Mexi 2</string>
     <string name="restaurants_cookoovaya_phone">+302107235005</string>
 
     <string name="restaurants_vezene_name">Vezene</string>
+    <string name="restaurants_vezene_description">Stylish Greek bistro with a New York vibe serving extraordinary meats and seafood, that earned its reputation as the outpost of a famous island restaurant.</string>
     <string name="restaurants_vezene_location">Vrasida 11</string>
 
     <string name="restaurants_spondi_name">Spondi</string>
+    <string name="restaurants_spondi_description">Multi-awarded French haute cuisine restaurant, widely regarded as the best of the city, that also offers world class desserts to sweeten further the dining experience in a beautiful old Athenian building and courtyard.</string>
     <string name="restaurants_spondi_location">Pyrronos 5</string>
 
     <string name="restaurants_bishop_name">Stinking Bishop</string>
+    <string name="restaurants_bishop_description">Stylish wine bar which recently graduated to a full-blown hip restaurant in a new, larger space in Kolonaki without losing its charming, preppy looks.</string>
     <string name="restaurants_bishop_location">Loukianou 36</string>
 
     <string name="restaurants_aleria_name">Aleria</string>
+    <string name="restaurants_aleria_description">A favorite of the Athens taste critics, this award-winning restaurant offers sophisticated Greek cuisine in a tasteful neoclassical setting with a beautiful garden in summer.</string>
     <string name="restaurants_aleria_location">Meg. Alexandrou 57</string>
 
     <string name="restaurants_fuga_name">Fuga</string>
+    <string name="restaurants_fuga_description">The restaurant of the Athens Concert Hall which serves up satisfying Mediterranean cuisine in the plush setting of one of the city’s most beautiful ‘secret’ gardens.</string>
     <string name="restaurants_fuga_location">Petrou Kokkali</string>
 
     <string name="restaurants_urban_name">48 Urban Garden</string>
+    <string name="restaurants_urban_description">A chic, concept restaurant with a fabulous garden serving accessible Mediterranean cuisine, as well as comfort food, at commendable prices.</string>
     <string name="restaurants_urban_location">Armatolon ke Klefton 48</string>
 
     <string name="restaurants_scala_name">Scala Vinoteca</string>
+    <string name="restaurants_scala_description">Stylish wine restaurant tucked away next to one of the many staircases of Lycabettus hill with an interior resembling a modern cellar and an extensive wine list of primarily local vino.</string>
     <string name="restaurants_scala_location">Sina 50</string>
 
     <string name="restaurants_ctc_name">CTC</string>
+    <string name="restaurants_ctc_description">Gourmet restaurant serving impeccably executed French and Mediterranean cuisine by one of the most promising young Greek chefs in a clean-cut space that puts the food center stage.</string>
     <string name="restaurants_ctc_location">Oumplianis 14</string>
 
     <!-- Bars -->
     <!-- Source: http://www.10best.com/destinations/greece/athens/monastiraki/nightlife/rock-balls/ -->
     <string name="bars_galaxy_name">Galaxy Bar</string>
-    <string name="bars_galaxy_description">sdsd</string>
+    <string name="bars_galaxy_description">Galaxy bar and restaurant on the rooftop of the Athens Hilton is a wonderful place to pass the evening, with a breathtaking view, elegant atmosphere and high quality service.</string>
     <string name="bars_galaxy_location">46 Vassilissis Sofias Avenue</string>
 
     <string name="bars_baba_name">Baba au Rum</string>
@@ -97,52 +117,64 @@
     <string name="bars_jazzinjazz_location">Deinokratous 3</string>
 
     <string name="bars_lowprofile_name">Low Profile Coffee &amp; Whiskey</string>
+    <string name="bars_lowprofile_description">The history of Low Profile started in 1996, when a small butcher shop on Lykavittou street in Kolonaki was transformed into a Whiskey Bar which immediately attracted people from all over Athens.</string>
     <string name="bars_lowprofile_location">Voulis 7</string>
 
     <string name="bars_ippopotamos_name">Ippopotamos</string>
+    <string name="bars_ippopotamos_description">Ippopotamos is the oldest functioning rock bar in Athens and can be found in the same location since 1978 when it first opened.</string>
     <string name="bars_ippopotamos_location">Delfon 3b</string>
 
     <string name="bars_noel_name">Noel</string>
+    <string name="bars_noel_description">At Noel, on central Kolokotroni street, customers are welcomed as guests, in a warm atmosphere. A team of experts pooled their experience and created a bar/restaurant with unique style in this atmospheric arcade.</string>
     <string name="bars_noel_location">Kolokotroni 59B</string>
 
     <string name="bars_theunderdog_name">The Underdog</string>
+    <string name="bars_theunderdog_description">Underdog on Irakleidon pedestrian street in Thission, is one of the most successful new arrivals on the Athens day and night scene. Its opening confirmed that Irakleidon street is one of the most hip places in town.</string>
     <string name="bars_theunderdog_location">Irakleidon 8</string>
 
     <string name="bars_rockandballs_name">Rock &amp; Balls </string>
-    <string name="bars_rockandballs_location">Irakleidon 8</string>
+    <string name="bars_rockandballs_description">Rock &amp; Balls on lively Agias Irinis square is a popular hang out with industrial design, Bauhaus style, an imaginative menu and original cocktails.</string>
+    <string name="bars_rockandballs_location">Vasilikis 2</string>
 
     <!-- Hotels -->
     <!-- Source: https://www.hotelscombined.com/Hotel -->
     <string name="hotels_amalia_name">Amalia Hotel</string>
+    <string name="hotels_amalia_description">Boasting deluxe amenities including a limousine service, Amalia Hotel Athens is situated in Athens and is a recipient of a Green Key Award.</string>
     <string name="hotels_amalia_location">10 Amalias Avenue, Syntagma</string>
 
     <string name="hotels_plaka_name">Plaka Hotel</string>
+    <string name="hotels_plaka_description">Situated in Athens, Plaka Hotel Athens is a 10-minute walk from Syntagma Square and provides a rooftop terrace. Located close to well-known landmarks, the hotel also features views of the Acropolis of Athens, the Acropolis Museum and Acropolis.</string>
     <string name="hotels_plaka_location">7 Kapnikareas &amp; Mitropoleos, Plaka, Monastiraki</string>
 
     <string name="hotels_airotel_name">Airotel Parthenon</string>
+    <string name="hotels_airotel_description">Airotel Parthenon provides modern 4-star accommodation in Athens. It is close to the Acropolis Museum, dining options and shops.</string>
     <string name="hotels_airotel_location">6 Makri Street, Acropolis</string>
 
     <string name="hotels_attalos_name">Attalos Hotel</string>
+    <string name="hotels_attalos_description">Boasting a rooftop terrace, Attalos Hotel is situated in Athens and provides historic accommodation. Located near well-known attractions, the hotel also features views of the Acropolis Museum, Acropolis and the Acropolis of Athens.</string>
     <string name="hotels_attalos_location">29 Athinas Street, Psyri</string>
 
     <string name="hotels_herodion_name">Herodion Hotel</string>
+    <string name="hotels_herodion_description">Featuring a popular location, Herodion Hotel provides views of the Acropolis Museum, Acropolis and Athens, and is conveniently close to a multitude of dining options. This elegant hotel is located in Central Athens.</string>
     <string name="hotels_herodion_location">4 Rovertou Galli Street</string>
 
     <string name="hotels_melia_name">Melia Athens</string>
+    <string name="hotels_melia_description">Located in Athens, Melia Athens is a 10-minute walk from the National Archaeological Museum and offers an outdoor pool, a sauna and a Jacuzzi. It has a spa and wellness centre, as well as a Turkish steam bath, free Wi-Fi and a coffee bar.</string>
     <string name="hotels_melia_location">14 Chalkokondili &amp; 28 October Street, Kanigos Square</string>
 
     <string name="hotels_electra_name">Electra Palace Hotel Athens</string>
+    <string name="hotels_electra_description">Situated in Athens, Electra Palace Hotel Athens is a 10-minute walk from Syntagma Square and offers a Jacuzzi, a sauna and a rooftop pool. Some of the premium facilities at this modern 5-star hotel include a rooftop terrace and free wireless internet.</string>
     <string name="hotels_electra_location">18-20 North Nikodimou Street, Plaka</string>
 
     <string name="hotels_gate_name">The Athens Gate Hotel</string>
+    <string name="hotels_gate_description">Set in Athens, The Athens Gate Hotel is a five-minute walk from the Arch of Hadrian and provides a rooftop terrace and a Jacuzzi. Guests can also enjoy free Wi-Fi.</string>
     <string name="hotels_gate_location">10 Syngrou Avenue, Acropolis</string>
 
     <string name="hotels_president_name">President Hotel Athens</string>
+    <string name="hotels_president_description">President Hotel Athens features a rooftop pool in addition to a pool-side bar. This 4-star hotel is close to everything Athens has to offer.</string>
     <string name="hotels_president_location">43 Kifisias Avenue, Ambelokipi</string>
 
     <string name="hotels_royal_name">Royal Olympic Hotel</string>
+    <string name="hotels_royal_description">Boasting views of the Temple of Olympian Zeus, Royal Olympic Hotel is near Athens\'s popular tourist spots. It also offers a sauna, a swimming pool and a rooftop terrace.</string>
     <string name="hotels_royal_location">28-34 Athanasiou Diakou Street, Acropolis</string>
-
-    <!-- List View -->
-    <string name="location_text">one</string>
 </resources>
