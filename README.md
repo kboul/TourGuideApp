@@ -25,8 +25,7 @@ Once you've decided on the location you'd like to show off, you'll want to build
 
 Next, you'll fill in those lists with list items, populated using a custom adapter. It may make sense for some lists to include information such as a phone number or business hours, but for others it may make more sense to have a photograph. Design your adapter based on the information you would like to show.
 
-Sources: http://www.planetware.com/
-         https://www.manual.gr
-         http://www.10best.com/destinations
+Sources: http://www.planetware.com/ <br />
+         https://www.manual.gr <br />
+         http://www.10best.com/destinations <br />
          https://www.hotelscombined.com/
-
