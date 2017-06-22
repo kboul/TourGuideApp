@@ -30,3 +30,6 @@ Sources: http://www.planetware.com/
          http://www.10best.com/destinations
          https://www.hotelscombined.com/
 
+<img src="https://user-images.githubusercontent.com/14216599/27451277-2c14e408-5797-11e7-9f48-9c6fff498446.png" width="250" hspace="20"/> <img src="https://user-images.githubusercontent.com/14216599/27451291-3a5b982c-5797-11e7-864f-dead60937e34.png" width="250"/> 
+
+<img src="https://user-images.githubusercontent.com/14216599/27451312-45902730-5797-11e7-97f4-b6f192dd42ed.png" width="250" hspace="20"/> <img src="https://user-images.githubusercontent.com/14216599/27451327-529dfa88-5797-11e7-86dc-5d6b3d2902c1.png" width="250"/>
